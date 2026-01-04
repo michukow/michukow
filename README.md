@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**michukow/michukow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Michal  
 
-Here are some ideas to get you started:
+🎓 I'm an economics student with a strong interest in technology, startups, and artificial intelligence.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I focus on learning by building. Most of my projects are practical side projects where I experiment, break things, fix them, and improve step by step.
+
+⚙️ My work often involves:
+- Python programming and automation  
+- Data analysis and working with real datasets  
+- AI-assisted tools and content pipelines  
+- Small but complete projects rather than toy examples  
+
+🚀 Currently working on projects that combine economics, data, and technology, with an emphasis on real-world usability rather than academic theory.
+
+📈 Long-term goal: building scalable online projects and products that actually solve problems, not just look good in a portfolio.
+
